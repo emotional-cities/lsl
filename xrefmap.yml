@@ -1,0 +1,1395 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Bonsai.Lsl
+  name: Bonsai.Lsl
+  href: api/Bonsai.Lsl.html
+  commentId: N:Bonsai.Lsl
+  fullName: Bonsai.Lsl
+  nameWithType: Bonsai.Lsl
+- uid: Bonsai.Lsl.ChannelFormat
+  name: ChannelFormat
+  href: api/Bonsai.Lsl.ChannelFormat.html
+  commentId: T:Bonsai.Lsl.ChannelFormat
+  fullName: Bonsai.Lsl.ChannelFormat
+  nameWithType: ChannelFormat
+- uid: Bonsai.Lsl.ChannelFormat.Double64
+  name: Double64
+  href: api/Bonsai.Lsl.ChannelFormat.html#Bonsai_Lsl_ChannelFormat_Double64
+  commentId: F:Bonsai.Lsl.ChannelFormat.Double64
+  fullName: Bonsai.Lsl.ChannelFormat.Double64
+  nameWithType: ChannelFormat.Double64
+- uid: Bonsai.Lsl.ChannelFormat.Float32
+  name: Float32
+  href: api/Bonsai.Lsl.ChannelFormat.html#Bonsai_Lsl_ChannelFormat_Float32
+  commentId: F:Bonsai.Lsl.ChannelFormat.Float32
+  fullName: Bonsai.Lsl.ChannelFormat.Float32
+  nameWithType: ChannelFormat.Float32
+- uid: Bonsai.Lsl.ChannelFormat.Int16
+  name: Int16
+  href: api/Bonsai.Lsl.ChannelFormat.html#Bonsai_Lsl_ChannelFormat_Int16
+  commentId: F:Bonsai.Lsl.ChannelFormat.Int16
+  fullName: Bonsai.Lsl.ChannelFormat.Int16
+  nameWithType: ChannelFormat.Int16
+- uid: Bonsai.Lsl.ChannelFormat.Int32
+  name: Int32
+  href: api/Bonsai.Lsl.ChannelFormat.html#Bonsai_Lsl_ChannelFormat_Int32
+  commentId: F:Bonsai.Lsl.ChannelFormat.Int32
+  fullName: Bonsai.Lsl.ChannelFormat.Int32
+  nameWithType: ChannelFormat.Int32
+- uid: Bonsai.Lsl.ChannelFormat.Int64
+  name: Int64
+  href: api/Bonsai.Lsl.ChannelFormat.html#Bonsai_Lsl_ChannelFormat_Int64
+  commentId: F:Bonsai.Lsl.ChannelFormat.Int64
+  fullName: Bonsai.Lsl.ChannelFormat.Int64
+  nameWithType: ChannelFormat.Int64
+- uid: Bonsai.Lsl.ChannelFormat.Int8
+  name: Int8
+  href: api/Bonsai.Lsl.ChannelFormat.html#Bonsai_Lsl_ChannelFormat_Int8
+  commentId: F:Bonsai.Lsl.ChannelFormat.Int8
+  fullName: Bonsai.Lsl.ChannelFormat.Int8
+  nameWithType: ChannelFormat.Int8
+- uid: Bonsai.Lsl.ChannelFormat.String
+  name: String
+  href: api/Bonsai.Lsl.ChannelFormat.html#Bonsai_Lsl_ChannelFormat_String
+  commentId: F:Bonsai.Lsl.ChannelFormat.String
+  fullName: Bonsai.Lsl.ChannelFormat.String
+  nameWithType: ChannelFormat.String
+- uid: Bonsai.Lsl.ChannelFormat.Undefined
+  name: Undefined
+  href: api/Bonsai.Lsl.ChannelFormat.html#Bonsai_Lsl_ChannelFormat_Undefined
+  commentId: F:Bonsai.Lsl.ChannelFormat.Undefined
+  fullName: Bonsai.Lsl.ChannelFormat.Undefined
+  nameWithType: ChannelFormat.Undefined
+- uid: Bonsai.Lsl.InternalException
+  name: InternalException
+  href: api/Bonsai.Lsl.InternalException.html
+  commentId: T:Bonsai.Lsl.InternalException
+  fullName: Bonsai.Lsl.InternalException
+  nameWithType: InternalException
+- uid: Bonsai.Lsl.InternalException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+  name: InternalException(SerializationInfo, StreamingContext)
+  href: api/Bonsai.Lsl.InternalException.html#Bonsai_Lsl_InternalException__ctor_System_Runtime_Serialization_SerializationInfo_System_Runtime_Serialization_StreamingContext_
+  commentId: M:Bonsai.Lsl.InternalException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+  fullName: Bonsai.Lsl.InternalException.InternalException(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
+  nameWithType: InternalException.InternalException(SerializationInfo, StreamingContext)
+- uid: Bonsai.Lsl.InternalException.#ctor(System.String,System.Exception)
+  name: InternalException(String, Exception)
+  href: api/Bonsai.Lsl.InternalException.html#Bonsai_Lsl_InternalException__ctor_System_String_System_Exception_
+  commentId: M:Bonsai.Lsl.InternalException.#ctor(System.String,System.Exception)
+  fullName: Bonsai.Lsl.InternalException.InternalException(System.String, System.Exception)
+  nameWithType: InternalException.InternalException(String, Exception)
+- uid: Bonsai.Lsl.InternalException.#ctor*
+  name: InternalException
+  href: api/Bonsai.Lsl.InternalException.html#Bonsai_Lsl_InternalException__ctor_
+  commentId: Overload:Bonsai.Lsl.InternalException.#ctor
+  isSpec: "True"
+  fullName: Bonsai.Lsl.InternalException.InternalException
+  nameWithType: InternalException.InternalException
+- uid: Bonsai.Lsl.LostException
+  name: LostException
+  href: api/Bonsai.Lsl.LostException.html
+  commentId: T:Bonsai.Lsl.LostException
+  fullName: Bonsai.Lsl.LostException
+  nameWithType: LostException
+- uid: Bonsai.Lsl.LostException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+  name: LostException(SerializationInfo, StreamingContext)
+  href: api/Bonsai.Lsl.LostException.html#Bonsai_Lsl_LostException__ctor_System_Runtime_Serialization_SerializationInfo_System_Runtime_Serialization_StreamingContext_
+  commentId: M:Bonsai.Lsl.LostException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+  fullName: Bonsai.Lsl.LostException.LostException(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
+  nameWithType: LostException.LostException(SerializationInfo, StreamingContext)
+- uid: Bonsai.Lsl.LostException.#ctor(System.String,System.Exception)
+  name: LostException(String, Exception)
+  href: api/Bonsai.Lsl.LostException.html#Bonsai_Lsl_LostException__ctor_System_String_System_Exception_
+  commentId: M:Bonsai.Lsl.LostException.#ctor(System.String,System.Exception)
+  fullName: Bonsai.Lsl.LostException.LostException(System.String, System.Exception)
+  nameWithType: LostException.LostException(String, Exception)
+- uid: Bonsai.Lsl.LostException.#ctor*
+  name: LostException
+  href: api/Bonsai.Lsl.LostException.html#Bonsai_Lsl_LostException__ctor_
+  commentId: Overload:Bonsai.Lsl.LostException.#ctor
+  isSpec: "True"
+  fullName: Bonsai.Lsl.LostException.LostException
+  nameWithType: LostException.LostException
+- uid: Bonsai.Lsl.StreamInlet
+  name: StreamInlet
+  href: api/Bonsai.Lsl.StreamInlet.html
+  commentId: T:Bonsai.Lsl.StreamInlet
+  fullName: Bonsai.Lsl.StreamInlet
+  nameWithType: StreamInlet
+- uid: Bonsai.Lsl.StreamInlet.Build(System.Collections.Generic.IEnumerable{System.Linq.Expressions.Expression})
+  name: Build(IEnumerable<Expression>)
+  href: api/Bonsai.Lsl.StreamInlet.html#Bonsai_Lsl_StreamInlet_Build_System_Collections_Generic_IEnumerable_System_Linq_Expressions_Expression__
+  commentId: M:Bonsai.Lsl.StreamInlet.Build(System.Collections.Generic.IEnumerable{System.Linq.Expressions.Expression})
+  name.vb: Build(IEnumerable(Of Expression))
+  fullName: Bonsai.Lsl.StreamInlet.Build(System.Collections.Generic.IEnumerable<System.Linq.Expressions.Expression>)
+  fullName.vb: Bonsai.Lsl.StreamInlet.Build(System.Collections.Generic.IEnumerable(Of System.Linq.Expressions.Expression))
+  nameWithType: StreamInlet.Build(IEnumerable<Expression>)
+  nameWithType.vb: StreamInlet.Build(IEnumerable(Of Expression))
+- uid: Bonsai.Lsl.StreamInlet.Build*
+  name: Build
+  href: api/Bonsai.Lsl.StreamInlet.html#Bonsai_Lsl_StreamInlet_Build_
+  commentId: Overload:Bonsai.Lsl.StreamInlet.Build
+  isSpec: "True"
+  fullName: Bonsai.Lsl.StreamInlet.Build
+  nameWithType: StreamInlet.Build
+- uid: Bonsai.Lsl.StreamInlet.ChannelCount
+  name: ChannelCount
+  href: api/Bonsai.Lsl.StreamInlet.html#Bonsai_Lsl_StreamInlet_ChannelCount
+  commentId: P:Bonsai.Lsl.StreamInlet.ChannelCount
+  fullName: Bonsai.Lsl.StreamInlet.ChannelCount
+  nameWithType: StreamInlet.ChannelCount
+- uid: Bonsai.Lsl.StreamInlet.ChannelCount*
+  name: ChannelCount
+  href: api/Bonsai.Lsl.StreamInlet.html#Bonsai_Lsl_StreamInlet_ChannelCount_
+  commentId: Overload:Bonsai.Lsl.StreamInlet.ChannelCount
+  isSpec: "True"
+  fullName: Bonsai.Lsl.StreamInlet.ChannelCount
+  nameWithType: StreamInlet.ChannelCount
+- uid: Bonsai.Lsl.StreamInlet.ChannelFormat
+  name: ChannelFormat
+  href: api/Bonsai.Lsl.StreamInlet.html#Bonsai_Lsl_StreamInlet_ChannelFormat
+  commentId: P:Bonsai.Lsl.StreamInlet.ChannelFormat
+  fullName: Bonsai.Lsl.StreamInlet.ChannelFormat
+  nameWithType: StreamInlet.ChannelFormat
+- uid: Bonsai.Lsl.StreamInlet.ChannelFormat*
+  name: ChannelFormat
+  href: api/Bonsai.Lsl.StreamInlet.html#Bonsai_Lsl_StreamInlet_ChannelFormat_
+  commentId: Overload:Bonsai.Lsl.StreamInlet.ChannelFormat
+  isSpec: "True"
+  fullName: Bonsai.Lsl.StreamInlet.ChannelFormat
+  nameWithType: StreamInlet.ChannelFormat
+- uid: Bonsai.Lsl.StreamInlet.ChunkSize
+  name: ChunkSize
+  href: api/Bonsai.Lsl.StreamInlet.html#Bonsai_Lsl_StreamInlet_ChunkSize
+  commentId: P:Bonsai.Lsl.StreamInlet.ChunkSize
+  fullName: Bonsai.Lsl.StreamInlet.ChunkSize
+  nameWithType: StreamInlet.ChunkSize
+- uid: Bonsai.Lsl.StreamInlet.ChunkSize*
+  name: ChunkSize
+  href: api/Bonsai.Lsl.StreamInlet.html#Bonsai_Lsl_StreamInlet_ChunkSize_
+  commentId: Overload:Bonsai.Lsl.StreamInlet.ChunkSize
+  isSpec: "True"
+  fullName: Bonsai.Lsl.StreamInlet.ChunkSize
+  nameWithType: StreamInlet.ChunkSize
+- uid: Bonsai.Lsl.StreamInlet.ContentType
+  name: ContentType
+  href: api/Bonsai.Lsl.StreamInlet.html#Bonsai_Lsl_StreamInlet_ContentType
+  commentId: P:Bonsai.Lsl.StreamInlet.ContentType
+  fullName: Bonsai.Lsl.StreamInlet.ContentType
+  nameWithType: StreamInlet.ContentType
+- uid: Bonsai.Lsl.StreamInlet.ContentType*
+  name: ContentType
+  href: api/Bonsai.Lsl.StreamInlet.html#Bonsai_Lsl_StreamInlet_ContentType_
+  commentId: Overload:Bonsai.Lsl.StreamInlet.ContentType
+  isSpec: "True"
+  fullName: Bonsai.Lsl.StreamInlet.ContentType
+  nameWithType: StreamInlet.ContentType
+- uid: Bonsai.Lsl.StreamInlet.Name
+  name: Name
+  href: api/Bonsai.Lsl.StreamInlet.html#Bonsai_Lsl_StreamInlet_Name
+  commentId: P:Bonsai.Lsl.StreamInlet.Name
+  fullName: Bonsai.Lsl.StreamInlet.Name
+  nameWithType: StreamInlet.Name
+- uid: Bonsai.Lsl.StreamInlet.Name*
+  name: Name
+  href: api/Bonsai.Lsl.StreamInlet.html#Bonsai_Lsl_StreamInlet_Name_
+  commentId: Overload:Bonsai.Lsl.StreamInlet.Name
+  isSpec: "True"
+  fullName: Bonsai.Lsl.StreamInlet.Name
+  nameWithType: StreamInlet.Name
+- uid: Bonsai.Lsl.StreamOutlet
+  name: StreamOutlet
+  href: api/Bonsai.Lsl.StreamOutlet.html
+  commentId: T:Bonsai.Lsl.StreamOutlet
+  fullName: Bonsai.Lsl.StreamOutlet
+  nameWithType: StreamOutlet
+- uid: Bonsai.Lsl.StreamOutlet.Build(System.Collections.Generic.IEnumerable{System.Linq.Expressions.Expression})
+  name: Build(IEnumerable<Expression>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Build_System_Collections_Generic_IEnumerable_System_Linq_Expressions_Expression__
+  commentId: M:Bonsai.Lsl.StreamOutlet.Build(System.Collections.Generic.IEnumerable{System.Linq.Expressions.Expression})
+  name.vb: Build(IEnumerable(Of Expression))
+  fullName: Bonsai.Lsl.StreamOutlet.Build(System.Collections.Generic.IEnumerable<System.Linq.Expressions.Expression>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Build(System.Collections.Generic.IEnumerable(Of System.Linq.Expressions.Expression))
+  nameWithType: StreamOutlet.Build(IEnumerable<Expression>)
+  nameWithType.vb: StreamOutlet.Build(IEnumerable(Of Expression))
+- uid: Bonsai.Lsl.StreamOutlet.Build*
+  name: Build
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Build_
+  commentId: Overload:Bonsai.Lsl.StreamOutlet.Build
+  isSpec: "True"
+  fullName: Bonsai.Lsl.StreamOutlet.Build
+  nameWithType: StreamOutlet.Build
+- uid: Bonsai.Lsl.StreamOutlet.ChannelCount
+  name: ChannelCount
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_ChannelCount
+  commentId: P:Bonsai.Lsl.StreamOutlet.ChannelCount
+  fullName: Bonsai.Lsl.StreamOutlet.ChannelCount
+  nameWithType: StreamOutlet.ChannelCount
+- uid: Bonsai.Lsl.StreamOutlet.ChannelCount*
+  name: ChannelCount
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_ChannelCount_
+  commentId: Overload:Bonsai.Lsl.StreamOutlet.ChannelCount
+  isSpec: "True"
+  fullName: Bonsai.Lsl.StreamOutlet.ChannelCount
+  nameWithType: StreamOutlet.ChannelCount
+- uid: Bonsai.Lsl.StreamOutlet.ContentType
+  name: ContentType
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_ContentType
+  commentId: P:Bonsai.Lsl.StreamOutlet.ContentType
+  fullName: Bonsai.Lsl.StreamOutlet.ContentType
+  nameWithType: StreamOutlet.ContentType
+- uid: Bonsai.Lsl.StreamOutlet.ContentType*
+  name: ContentType
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_ContentType_
+  commentId: Overload:Bonsai.Lsl.StreamOutlet.ContentType
+  isSpec: "True"
+  fullName: Bonsai.Lsl.StreamOutlet.ContentType
+  nameWithType: StreamOutlet.ContentType
+- uid: Bonsai.Lsl.StreamOutlet.Name
+  name: Name
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Name
+  commentId: P:Bonsai.Lsl.StreamOutlet.Name
+  fullName: Bonsai.Lsl.StreamOutlet.Name
+  nameWithType: StreamOutlet.Name
+- uid: Bonsai.Lsl.StreamOutlet.Name*
+  name: Name
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Name_
+  commentId: Overload:Bonsai.Lsl.StreamOutlet.Name
+  isSpec: "True"
+  fullName: Bonsai.Lsl.StreamOutlet.Name
+  nameWithType: StreamOutlet.Name
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.Timestamped{Mat}})
+  name: Process(IObservable<Timestamped<Mat>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_Timestamped_Mat___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.Timestamped{Mat}})
+  name.vb: Process(IObservable(Of Timestamped(Of Mat)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.Timestamped<Mat>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.Timestamped(Of Mat)))
+  nameWithType: StreamOutlet.Process(IObservable<Timestamped<Mat>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Timestamped(Of Mat)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.Timestamped{System.Byte}})
+  name: Process(IObservable<Timestamped<Byte>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_Timestamped_System_Byte___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.Timestamped{System.Byte}})
+  name.vb: Process(IObservable(Of Timestamped(Of Byte)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.Timestamped<System.Byte>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.Timestamped(Of System.Byte)))
+  nameWithType: StreamOutlet.Process(IObservable<Timestamped<Byte>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Timestamped(Of Byte)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.Timestamped{System.Double}})
+  name: Process(IObservable<Timestamped<Double>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_Timestamped_System_Double___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.Timestamped{System.Double}})
+  name.vb: Process(IObservable(Of Timestamped(Of Double)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.Timestamped<System.Double>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.Timestamped(Of System.Double)))
+  nameWithType: StreamOutlet.Process(IObservable<Timestamped<Double>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Timestamped(Of Double)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.Timestamped{System.Int16}})
+  name: Process(IObservable<Timestamped<Int16>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_Timestamped_System_Int16___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.Timestamped{System.Int16}})
+  name.vb: Process(IObservable(Of Timestamped(Of Int16)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.Timestamped<System.Int16>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.Timestamped(Of System.Int16)))
+  nameWithType: StreamOutlet.Process(IObservable<Timestamped<Int16>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Timestamped(Of Int16)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.Timestamped{System.Int32}})
+  name: Process(IObservable<Timestamped<Int32>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_Timestamped_System_Int32___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.Timestamped{System.Int32}})
+  name.vb: Process(IObservable(Of Timestamped(Of Int32)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.Timestamped<System.Int32>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.Timestamped(Of System.Int32)))
+  nameWithType: StreamOutlet.Process(IObservable<Timestamped<Int32>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Timestamped(Of Int32)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.Timestamped{System.Single}})
+  name: Process(IObservable<Timestamped<Single>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_Timestamped_System_Single___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.Timestamped{System.Single}})
+  name.vb: Process(IObservable(Of Timestamped(Of Single)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.Timestamped<System.Single>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.Timestamped(Of System.Single)))
+  nameWithType: StreamOutlet.Process(IObservable<Timestamped<Single>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Timestamped(Of Single)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.Timestamped{System.String}})
+  name: Process(IObservable<Timestamped<String>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_Timestamped_System_String___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.Timestamped{System.String}})
+  name.vb: Process(IObservable(Of Timestamped(Of String)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.Timestamped<System.String>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.Timestamped(Of System.String)))
+  nameWithType: StreamOutlet.Process(IObservable<Timestamped<String>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Timestamped(Of String)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedChunk{System.Byte}})
+  name: Process(IObservable<TimestampedChunk<Byte>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_TimestampedChunk_System_Byte___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedChunk{System.Byte}})
+  name.vb: Process(IObservable(Of TimestampedChunk(Of Byte)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.TimestampedChunk<System.Byte>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.TimestampedChunk(Of System.Byte)))
+  nameWithType: StreamOutlet.Process(IObservable<TimestampedChunk<Byte>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of TimestampedChunk(Of Byte)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedChunk{System.Double}})
+  name: Process(IObservable<TimestampedChunk<Double>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_TimestampedChunk_System_Double___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedChunk{System.Double}})
+  name.vb: Process(IObservable(Of TimestampedChunk(Of Double)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.TimestampedChunk<System.Double>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.TimestampedChunk(Of System.Double)))
+  nameWithType: StreamOutlet.Process(IObservable<TimestampedChunk<Double>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of TimestampedChunk(Of Double)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedChunk{System.Int16}})
+  name: Process(IObservable<TimestampedChunk<Int16>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_TimestampedChunk_System_Int16___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedChunk{System.Int16}})
+  name.vb: Process(IObservable(Of TimestampedChunk(Of Int16)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.TimestampedChunk<System.Int16>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.TimestampedChunk(Of System.Int16)))
+  nameWithType: StreamOutlet.Process(IObservable<TimestampedChunk<Int16>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of TimestampedChunk(Of Int16)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedChunk{System.Int32}})
+  name: Process(IObservable<TimestampedChunk<Int32>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_TimestampedChunk_System_Int32___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedChunk{System.Int32}})
+  name.vb: Process(IObservable(Of TimestampedChunk(Of Int32)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.TimestampedChunk<System.Int32>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.TimestampedChunk(Of System.Int32)))
+  nameWithType: StreamOutlet.Process(IObservable<TimestampedChunk<Int32>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of TimestampedChunk(Of Int32)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedChunk{System.Single}})
+  name: Process(IObservable<TimestampedChunk<Single>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_TimestampedChunk_System_Single___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedChunk{System.Single}})
+  name.vb: Process(IObservable(Of TimestampedChunk(Of Single)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.TimestampedChunk<System.Single>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.TimestampedChunk(Of System.Single)))
+  nameWithType: StreamOutlet.Process(IObservable<TimestampedChunk<Single>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of TimestampedChunk(Of Single)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedChunk{System.String}})
+  name: Process(IObservable<TimestampedChunk<String>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_TimestampedChunk_System_String___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedChunk{System.String}})
+  name.vb: Process(IObservable(Of TimestampedChunk(Of String)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.TimestampedChunk<System.String>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.TimestampedChunk(Of System.String)))
+  nameWithType: StreamOutlet.Process(IObservable<TimestampedChunk<String>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of TimestampedChunk(Of String)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedSample{System.Byte}})
+  name: Process(IObservable<TimestampedSample<Byte>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_TimestampedSample_System_Byte___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedSample{System.Byte}})
+  name.vb: Process(IObservable(Of TimestampedSample(Of Byte)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.TimestampedSample<System.Byte>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.TimestampedSample(Of System.Byte)))
+  nameWithType: StreamOutlet.Process(IObservable<TimestampedSample<Byte>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of TimestampedSample(Of Byte)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedSample{System.Double}})
+  name: Process(IObservable<TimestampedSample<Double>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_TimestampedSample_System_Double___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedSample{System.Double}})
+  name.vb: Process(IObservable(Of TimestampedSample(Of Double)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.TimestampedSample<System.Double>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.TimestampedSample(Of System.Double)))
+  nameWithType: StreamOutlet.Process(IObservable<TimestampedSample<Double>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of TimestampedSample(Of Double)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedSample{System.Int16}})
+  name: Process(IObservable<TimestampedSample<Int16>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_TimestampedSample_System_Int16___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedSample{System.Int16}})
+  name.vb: Process(IObservable(Of TimestampedSample(Of Int16)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.TimestampedSample<System.Int16>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.TimestampedSample(Of System.Int16)))
+  nameWithType: StreamOutlet.Process(IObservable<TimestampedSample<Int16>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of TimestampedSample(Of Int16)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedSample{System.Int32}})
+  name: Process(IObservable<TimestampedSample<Int32>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_TimestampedSample_System_Int32___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedSample{System.Int32}})
+  name.vb: Process(IObservable(Of TimestampedSample(Of Int32)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.TimestampedSample<System.Int32>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.TimestampedSample(Of System.Int32)))
+  nameWithType: StreamOutlet.Process(IObservable<TimestampedSample<Int32>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of TimestampedSample(Of Int32)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedSample{System.Single}})
+  name: Process(IObservable<TimestampedSample<Single>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_TimestampedSample_System_Single___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedSample{System.Single}})
+  name.vb: Process(IObservable(Of TimestampedSample(Of Single)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.TimestampedSample<System.Single>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.TimestampedSample(Of System.Single)))
+  nameWithType: StreamOutlet.Process(IObservable<TimestampedSample<Single>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of TimestampedSample(Of Single)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedSample{System.String}})
+  name: Process(IObservable<TimestampedSample<String>>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Bonsai_Lsl_TimestampedSample_System_String___
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Bonsai.Lsl.TimestampedSample{System.String}})
+  name.vb: Process(IObservable(Of TimestampedSample(Of String)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Bonsai.Lsl.TimestampedSample<System.String>>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Bonsai.Lsl.TimestampedSample(Of System.String)))
+  nameWithType: StreamOutlet.Process(IObservable<TimestampedSample<String>>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of TimestampedSample(Of String)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Mat})
+  name: Process(IObservable<Mat>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_Mat__
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{Mat})
+  name.vb: Process(IObservable(Of Mat))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<Mat>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of Mat))
+  nameWithType: StreamOutlet.Process(IObservable<Mat>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Mat))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Byte[]})
+  name: Process(IObservable<Byte[]>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_Byte____
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Byte[]})
+  name.vb: Process(IObservable(Of Byte()))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.Byte[]>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.Byte()))
+  nameWithType: StreamOutlet.Process(IObservable<Byte[]>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Byte()))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Byte[0:,0:]})
+  name: Process(IObservable<Byte[,]>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_Byte_0__0____
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Byte[0:,0:]})
+  name.vb: Process(IObservable(Of Byte(,)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.Byte[,]>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.Byte(,)))
+  nameWithType: StreamOutlet.Process(IObservable<Byte[,]>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Byte(,)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Byte})
+  name: Process(IObservable<Byte>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_Byte__
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Byte})
+  name.vb: Process(IObservable(Of Byte))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.Byte>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.Byte))
+  nameWithType: StreamOutlet.Process(IObservable<Byte>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Byte))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Double[]})
+  name: Process(IObservable<Double[]>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_Double____
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Double[]})
+  name.vb: Process(IObservable(Of Double()))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.Double[]>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.Double()))
+  nameWithType: StreamOutlet.Process(IObservable<Double[]>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Double()))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Double[0:,0:]})
+  name: Process(IObservable<Double[,]>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_Double_0__0____
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Double[0:,0:]})
+  name.vb: Process(IObservable(Of Double(,)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.Double[,]>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.Double(,)))
+  nameWithType: StreamOutlet.Process(IObservable<Double[,]>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Double(,)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Double})
+  name: Process(IObservable<Double>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_Double__
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Double})
+  name.vb: Process(IObservable(Of Double))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.Double>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.Double))
+  nameWithType: StreamOutlet.Process(IObservable<Double>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Double))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Int16[]})
+  name: Process(IObservable<Int16[]>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_Int16____
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Int16[]})
+  name.vb: Process(IObservable(Of Int16()))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.Int16[]>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.Int16()))
+  nameWithType: StreamOutlet.Process(IObservable<Int16[]>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Int16()))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Int16[0:,0:]})
+  name: Process(IObservable<Int16[,]>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_Int16_0__0____
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Int16[0:,0:]})
+  name.vb: Process(IObservable(Of Int16(,)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.Int16[,]>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.Int16(,)))
+  nameWithType: StreamOutlet.Process(IObservable<Int16[,]>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Int16(,)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Int16})
+  name: Process(IObservable<Int16>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_Int16__
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Int16})
+  name.vb: Process(IObservable(Of Int16))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.Int16>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.Int16))
+  nameWithType: StreamOutlet.Process(IObservable<Int16>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Int16))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Int32[]})
+  name: Process(IObservable<Int32[]>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_Int32____
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Int32[]})
+  name.vb: Process(IObservable(Of Int32()))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.Int32[]>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.Int32()))
+  nameWithType: StreamOutlet.Process(IObservable<Int32[]>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Int32()))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Int32[0:,0:]})
+  name: Process(IObservable<Int32[,]>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_Int32_0__0____
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Int32[0:,0:]})
+  name.vb: Process(IObservable(Of Int32(,)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.Int32[,]>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.Int32(,)))
+  nameWithType: StreamOutlet.Process(IObservable<Int32[,]>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Int32(,)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Int32})
+  name: Process(IObservable<Int32>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_Int32__
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Int32})
+  name.vb: Process(IObservable(Of Int32))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.Int32>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.Int32))
+  nameWithType: StreamOutlet.Process(IObservable<Int32>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Int32))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Single[]})
+  name: Process(IObservable<Single[]>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_Single____
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Single[]})
+  name.vb: Process(IObservable(Of Single()))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.Single[]>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.Single()))
+  nameWithType: StreamOutlet.Process(IObservable<Single[]>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Single()))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Single[0:,0:]})
+  name: Process(IObservable<Single[,]>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_Single_0__0____
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Single[0:,0:]})
+  name.vb: Process(IObservable(Of Single(,)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.Single[,]>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.Single(,)))
+  nameWithType: StreamOutlet.Process(IObservable<Single[,]>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Single(,)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Single})
+  name: Process(IObservable<Single>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_Single__
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.Single})
+  name.vb: Process(IObservable(Of Single))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.Single>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.Single))
+  nameWithType: StreamOutlet.Process(IObservable<Single>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of Single))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.String[]})
+  name: Process(IObservable<String[]>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_String____
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.String[]})
+  name.vb: Process(IObservable(Of String()))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.String[]>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.String()))
+  nameWithType: StreamOutlet.Process(IObservable<String[]>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of String()))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.String[0:,0:]})
+  name: Process(IObservable<String[,]>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_String_0__0____
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.String[0:,0:]})
+  name.vb: Process(IObservable(Of String(,)))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.String[,]>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.String(,)))
+  nameWithType: StreamOutlet.Process(IObservable<String[,]>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of String(,)))
+- uid: Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.String})
+  name: Process(IObservable<String>)
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_System_IObservable_System_String__
+  commentId: M:Bonsai.Lsl.StreamOutlet.Process(System.IObservable{System.String})
+  name.vb: Process(IObservable(Of String))
+  fullName: Bonsai.Lsl.StreamOutlet.Process(System.IObservable<System.String>)
+  fullName.vb: Bonsai.Lsl.StreamOutlet.Process(System.IObservable(Of System.String))
+  nameWithType: StreamOutlet.Process(IObservable<String>)
+  nameWithType.vb: StreamOutlet.Process(IObservable(Of String))
+- uid: Bonsai.Lsl.StreamOutlet.Process*
+  name: Process
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Process_
+  commentId: Overload:Bonsai.Lsl.StreamOutlet.Process
+  isSpec: "True"
+  fullName: Bonsai.Lsl.StreamOutlet.Process
+  nameWithType: StreamOutlet.Process
+- uid: Bonsai.Lsl.StreamOutlet.SampleRate
+  name: SampleRate
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_SampleRate
+  commentId: P:Bonsai.Lsl.StreamOutlet.SampleRate
+  fullName: Bonsai.Lsl.StreamOutlet.SampleRate
+  nameWithType: StreamOutlet.SampleRate
+- uid: Bonsai.Lsl.StreamOutlet.SampleRate*
+  name: SampleRate
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_SampleRate_
+  commentId: Overload:Bonsai.Lsl.StreamOutlet.SampleRate
+  isSpec: "True"
+  fullName: Bonsai.Lsl.StreamOutlet.SampleRate
+  nameWithType: StreamOutlet.SampleRate
+- uid: Bonsai.Lsl.StreamOutlet.Selector
+  name: Selector
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Selector
+  commentId: P:Bonsai.Lsl.StreamOutlet.Selector
+  fullName: Bonsai.Lsl.StreamOutlet.Selector
+  nameWithType: StreamOutlet.Selector
+- uid: Bonsai.Lsl.StreamOutlet.Selector*
+  name: Selector
+  href: api/Bonsai.Lsl.StreamOutlet.html#Bonsai_Lsl_StreamOutlet_Selector_
+  commentId: Overload:Bonsai.Lsl.StreamOutlet.Selector
+  isSpec: "True"
+  fullName: Bonsai.Lsl.StreamOutlet.Selector
+  nameWithType: StreamOutlet.Selector
+- uid: Bonsai.Lsl.Timestamp
+  name: Timestamp
+  href: api/Bonsai.Lsl.Timestamp.html
+  commentId: T:Bonsai.Lsl.Timestamp
+  fullName: Bonsai.Lsl.Timestamp
+  nameWithType: Timestamp
+- uid: Bonsai.Lsl.Timestamp.Process*
+  name: Process
+  href: api/Bonsai.Lsl.Timestamp.html#Bonsai_Lsl_Timestamp_Process_
+  commentId: Overload:Bonsai.Lsl.Timestamp.Process
+  isSpec: "True"
+  fullName: Bonsai.Lsl.Timestamp.Process
+  nameWithType: Timestamp.Process
+- uid: Bonsai.Lsl.Timestamp.Process``1(System.IObservable{``0[]})
+  name: Process<TSource>(IObservable<TSource[]>)
+  href: api/Bonsai.Lsl.Timestamp.html#Bonsai_Lsl_Timestamp_Process__1_System_IObservable___0____
+  commentId: M:Bonsai.Lsl.Timestamp.Process``1(System.IObservable{``0[]})
+  name.vb: Process(Of TSource)(IObservable(Of TSource()))
+  fullName: Bonsai.Lsl.Timestamp.Process<TSource>(System.IObservable<TSource[]>)
+  fullName.vb: Bonsai.Lsl.Timestamp.Process(Of TSource)(System.IObservable(Of TSource()))
+  nameWithType: Timestamp.Process<TSource>(IObservable<TSource[]>)
+  nameWithType.vb: Timestamp.Process(Of TSource)(IObservable(Of TSource()))
+- uid: Bonsai.Lsl.Timestamp.Process``1(System.IObservable{``0})
+  name: Process<TSource>(IObservable<TSource>)
+  href: api/Bonsai.Lsl.Timestamp.html#Bonsai_Lsl_Timestamp_Process__1_System_IObservable___0__
+  commentId: M:Bonsai.Lsl.Timestamp.Process``1(System.IObservable{``0})
+  name.vb: Process(Of TSource)(IObservable(Of TSource))
+  fullName: Bonsai.Lsl.Timestamp.Process<TSource>(System.IObservable<TSource>)
+  fullName.vb: Bonsai.Lsl.Timestamp.Process(Of TSource)(System.IObservable(Of TSource))
+  nameWithType: Timestamp.Process<TSource>(IObservable<TSource>)
+  nameWithType.vb: Timestamp.Process(Of TSource)(IObservable(Of TSource))
+- uid: Bonsai.Lsl.Timestamped
+  name: Timestamped
+  href: api/Bonsai.Lsl.Timestamped.html
+  commentId: T:Bonsai.Lsl.Timestamped
+  fullName: Bonsai.Lsl.Timestamped
+  nameWithType: Timestamped
+- uid: Bonsai.Lsl.Timestamped.Create*
+  name: Create
+  href: api/Bonsai.Lsl.Timestamped.html#Bonsai_Lsl_Timestamped_Create_
+  commentId: Overload:Bonsai.Lsl.Timestamped.Create
+  isSpec: "True"
+  fullName: Bonsai.Lsl.Timestamped.Create
+  nameWithType: Timestamped.Create
+- uid: Bonsai.Lsl.Timestamped.Create``1(``0,System.Double)
+  name: Create<T>(T, Double)
+  href: api/Bonsai.Lsl.Timestamped.html#Bonsai_Lsl_Timestamped_Create__1___0_System_Double_
+  commentId: M:Bonsai.Lsl.Timestamped.Create``1(``0,System.Double)
+  name.vb: Create(Of T)(T, Double)
+  fullName: Bonsai.Lsl.Timestamped.Create<T>(T, System.Double)
+  fullName.vb: Bonsai.Lsl.Timestamped.Create(Of T)(T, System.Double)
+  nameWithType: Timestamped.Create<T>(T, Double)
+  nameWithType.vb: Timestamped.Create(Of T)(T, Double)
+- uid: Bonsai.Lsl.Timestamped`1
+  name: Timestamped<T>
+  href: api/Bonsai.Lsl.Timestamped-1.html
+  commentId: T:Bonsai.Lsl.Timestamped`1
+  name.vb: Timestamped(Of T)
+  fullName: Bonsai.Lsl.Timestamped<T>
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T)
+  nameWithType: Timestamped<T>
+  nameWithType.vb: Timestamped(Of T)
+- uid: Bonsai.Lsl.Timestamped`1.#ctor(`0,System.Double)
+  name: Timestamped(T, Double)
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1__ctor__0_System_Double_
+  commentId: M:Bonsai.Lsl.Timestamped`1.#ctor(`0,System.Double)
+  fullName: Bonsai.Lsl.Timestamped<T>.Timestamped(T, System.Double)
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).Timestamped(T, System.Double)
+  nameWithType: Timestamped<T>.Timestamped(T, Double)
+  nameWithType.vb: Timestamped(Of T).Timestamped(T, Double)
+- uid: Bonsai.Lsl.Timestamped`1.#ctor*
+  name: Timestamped
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1__ctor_
+  commentId: Overload:Bonsai.Lsl.Timestamped`1.#ctor
+  isSpec: "True"
+  fullName: Bonsai.Lsl.Timestamped<T>.Timestamped
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).Timestamped
+  nameWithType: Timestamped<T>.Timestamped
+  nameWithType.vb: Timestamped(Of T).Timestamped
+- uid: Bonsai.Lsl.Timestamped`1.Deconstruct(`0@,System.Double@)
+  name: Deconstruct(out T, out Double)
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1_Deconstruct__0__System_Double__
+  commentId: M:Bonsai.Lsl.Timestamped`1.Deconstruct(`0@,System.Double@)
+  name.vb: Deconstruct(ByRef T, ByRef Double)
+  fullName: Bonsai.Lsl.Timestamped<T>.Deconstruct(out T, out System.Double)
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).Deconstruct(ByRef T, ByRef System.Double)
+  nameWithType: Timestamped<T>.Deconstruct(out T, out Double)
+  nameWithType.vb: Timestamped(Of T).Deconstruct(ByRef T, ByRef Double)
+- uid: Bonsai.Lsl.Timestamped`1.Deconstruct*
+  name: Deconstruct
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1_Deconstruct_
+  commentId: Overload:Bonsai.Lsl.Timestamped`1.Deconstruct
+  isSpec: "True"
+  fullName: Bonsai.Lsl.Timestamped<T>.Deconstruct
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).Deconstruct
+  nameWithType: Timestamped<T>.Deconstruct
+  nameWithType.vb: Timestamped(Of T).Deconstruct
+- uid: Bonsai.Lsl.Timestamped`1.Equals(Bonsai.Lsl.Timestamped{`0})
+  name: Equals(Timestamped<T>)
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1_Equals_Bonsai_Lsl_Timestamped__0__
+  commentId: M:Bonsai.Lsl.Timestamped`1.Equals(Bonsai.Lsl.Timestamped{`0})
+  name.vb: Equals(Timestamped(Of T))
+  fullName: Bonsai.Lsl.Timestamped<T>.Equals(Bonsai.Lsl.Timestamped<T>)
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).Equals(Bonsai.Lsl.Timestamped(Of T))
+  nameWithType: Timestamped<T>.Equals(Timestamped<T>)
+  nameWithType.vb: Timestamped(Of T).Equals(Timestamped(Of T))
+- uid: Bonsai.Lsl.Timestamped`1.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1_Equals_System_Object_
+  commentId: M:Bonsai.Lsl.Timestamped`1.Equals(System.Object)
+  fullName: Bonsai.Lsl.Timestamped<T>.Equals(System.Object)
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).Equals(System.Object)
+  nameWithType: Timestamped<T>.Equals(Object)
+  nameWithType.vb: Timestamped(Of T).Equals(Object)
+- uid: Bonsai.Lsl.Timestamped`1.Equals*
+  name: Equals
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1_Equals_
+  commentId: Overload:Bonsai.Lsl.Timestamped`1.Equals
+  isSpec: "True"
+  fullName: Bonsai.Lsl.Timestamped<T>.Equals
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).Equals
+  nameWithType: Timestamped<T>.Equals
+  nameWithType.vb: Timestamped(Of T).Equals
+- uid: Bonsai.Lsl.Timestamped`1.GetHashCode
+  name: GetHashCode()
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1_GetHashCode
+  commentId: M:Bonsai.Lsl.Timestamped`1.GetHashCode
+  fullName: Bonsai.Lsl.Timestamped<T>.GetHashCode()
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).GetHashCode()
+  nameWithType: Timestamped<T>.GetHashCode()
+  nameWithType.vb: Timestamped(Of T).GetHashCode()
+- uid: Bonsai.Lsl.Timestamped`1.GetHashCode*
+  name: GetHashCode
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1_GetHashCode_
+  commentId: Overload:Bonsai.Lsl.Timestamped`1.GetHashCode
+  isSpec: "True"
+  fullName: Bonsai.Lsl.Timestamped<T>.GetHashCode
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).GetHashCode
+  nameWithType: Timestamped<T>.GetHashCode
+  nameWithType.vb: Timestamped(Of T).GetHashCode
+- uid: Bonsai.Lsl.Timestamped`1.op_Equality(Bonsai.Lsl.Timestamped{`0},Bonsai.Lsl.Timestamped{`0})
+  name: Equality(Timestamped<T>, Timestamped<T>)
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1_op_Equality_Bonsai_Lsl_Timestamped__0__Bonsai_Lsl_Timestamped__0__
+  commentId: M:Bonsai.Lsl.Timestamped`1.op_Equality(Bonsai.Lsl.Timestamped{`0},Bonsai.Lsl.Timestamped{`0})
+  name.vb: Equality(Timestamped(Of T), Timestamped(Of T))
+  fullName: Bonsai.Lsl.Timestamped<T>.Equality(Bonsai.Lsl.Timestamped<T>, Bonsai.Lsl.Timestamped<T>)
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).Equality(Bonsai.Lsl.Timestamped(Of T), Bonsai.Lsl.Timestamped(Of T))
+  nameWithType: Timestamped<T>.Equality(Timestamped<T>, Timestamped<T>)
+  nameWithType.vb: Timestamped(Of T).Equality(Timestamped(Of T), Timestamped(Of T))
+- uid: Bonsai.Lsl.Timestamped`1.op_Equality*
+  name: Equality
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1_op_Equality_
+  commentId: Overload:Bonsai.Lsl.Timestamped`1.op_Equality
+  isSpec: "True"
+  fullName: Bonsai.Lsl.Timestamped<T>.Equality
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).Equality
+  nameWithType: Timestamped<T>.Equality
+  nameWithType.vb: Timestamped(Of T).Equality
+- uid: Bonsai.Lsl.Timestamped`1.op_Inequality(Bonsai.Lsl.Timestamped{`0},Bonsai.Lsl.Timestamped{`0})
+  name: Inequality(Timestamped<T>, Timestamped<T>)
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1_op_Inequality_Bonsai_Lsl_Timestamped__0__Bonsai_Lsl_Timestamped__0__
+  commentId: M:Bonsai.Lsl.Timestamped`1.op_Inequality(Bonsai.Lsl.Timestamped{`0},Bonsai.Lsl.Timestamped{`0})
+  name.vb: Inequality(Timestamped(Of T), Timestamped(Of T))
+  fullName: Bonsai.Lsl.Timestamped<T>.Inequality(Bonsai.Lsl.Timestamped<T>, Bonsai.Lsl.Timestamped<T>)
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).Inequality(Bonsai.Lsl.Timestamped(Of T), Bonsai.Lsl.Timestamped(Of T))
+  nameWithType: Timestamped<T>.Inequality(Timestamped<T>, Timestamped<T>)
+  nameWithType.vb: Timestamped(Of T).Inequality(Timestamped(Of T), Timestamped(Of T))
+- uid: Bonsai.Lsl.Timestamped`1.op_Inequality*
+  name: Inequality
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1_op_Inequality_
+  commentId: Overload:Bonsai.Lsl.Timestamped`1.op_Inequality
+  isSpec: "True"
+  fullName: Bonsai.Lsl.Timestamped<T>.Inequality
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).Inequality
+  nameWithType: Timestamped<T>.Inequality
+  nameWithType.vb: Timestamped(Of T).Inequality
+- uid: Bonsai.Lsl.Timestamped`1.Timestamp
+  name: Timestamp
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1_Timestamp
+  commentId: P:Bonsai.Lsl.Timestamped`1.Timestamp
+  fullName: Bonsai.Lsl.Timestamped<T>.Timestamp
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).Timestamp
+  nameWithType: Timestamped<T>.Timestamp
+  nameWithType.vb: Timestamped(Of T).Timestamp
+- uid: Bonsai.Lsl.Timestamped`1.Timestamp*
+  name: Timestamp
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1_Timestamp_
+  commentId: Overload:Bonsai.Lsl.Timestamped`1.Timestamp
+  isSpec: "True"
+  fullName: Bonsai.Lsl.Timestamped<T>.Timestamp
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).Timestamp
+  nameWithType: Timestamped<T>.Timestamp
+  nameWithType.vb: Timestamped(Of T).Timestamp
+- uid: Bonsai.Lsl.Timestamped`1.ToString
+  name: ToString()
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1_ToString
+  commentId: M:Bonsai.Lsl.Timestamped`1.ToString
+  fullName: Bonsai.Lsl.Timestamped<T>.ToString()
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).ToString()
+  nameWithType: Timestamped<T>.ToString()
+  nameWithType.vb: Timestamped(Of T).ToString()
+- uid: Bonsai.Lsl.Timestamped`1.ToString*
+  name: ToString
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1_ToString_
+  commentId: Overload:Bonsai.Lsl.Timestamped`1.ToString
+  isSpec: "True"
+  fullName: Bonsai.Lsl.Timestamped<T>.ToString
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).ToString
+  nameWithType: Timestamped<T>.ToString
+  nameWithType.vb: Timestamped(Of T).ToString
+- uid: Bonsai.Lsl.Timestamped`1.Value
+  name: Value
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1_Value
+  commentId: P:Bonsai.Lsl.Timestamped`1.Value
+  fullName: Bonsai.Lsl.Timestamped<T>.Value
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).Value
+  nameWithType: Timestamped<T>.Value
+  nameWithType.vb: Timestamped(Of T).Value
+- uid: Bonsai.Lsl.Timestamped`1.Value*
+  name: Value
+  href: api/Bonsai.Lsl.Timestamped-1.html#Bonsai_Lsl_Timestamped_1_Value_
+  commentId: Overload:Bonsai.Lsl.Timestamped`1.Value
+  isSpec: "True"
+  fullName: Bonsai.Lsl.Timestamped<T>.Value
+  fullName.vb: Bonsai.Lsl.Timestamped(Of T).Value
+  nameWithType: Timestamped<T>.Value
+  nameWithType.vb: Timestamped(Of T).Value
+- uid: Bonsai.Lsl.TimestampedChunk
+  name: TimestampedChunk
+  href: api/Bonsai.Lsl.TimestampedChunk.html
+  commentId: T:Bonsai.Lsl.TimestampedChunk
+  fullName: Bonsai.Lsl.TimestampedChunk
+  nameWithType: TimestampedChunk
+- uid: Bonsai.Lsl.TimestampedChunk.Create(Mat,Mat)
+  name: Create(Mat, Mat)
+  href: api/Bonsai.Lsl.TimestampedChunk.html#Bonsai_Lsl_TimestampedChunk_Create_Mat_Mat_
+  commentId: M:Bonsai.Lsl.TimestampedChunk.Create(Mat,Mat)
+  fullName: Bonsai.Lsl.TimestampedChunk.Create(Mat, Mat)
+  nameWithType: TimestampedChunk.Create(Mat, Mat)
+- uid: Bonsai.Lsl.TimestampedChunk.Create*
+  name: Create
+  href: api/Bonsai.Lsl.TimestampedChunk.html#Bonsai_Lsl_TimestampedChunk_Create_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunk.Create
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunk.Create
+  nameWithType: TimestampedChunk.Create
+- uid: Bonsai.Lsl.TimestampedChunk.Create``1(``0[0:,0:],System.Double[])
+  name: Create<T>(T[,], Double[])
+  href: api/Bonsai.Lsl.TimestampedChunk.html#Bonsai_Lsl_TimestampedChunk_Create__1___0_0__0___System_Double___
+  commentId: M:Bonsai.Lsl.TimestampedChunk.Create``1(``0[0:,0:],System.Double[])
+  name.vb: Create(Of T)(T(,), Double())
+  fullName: Bonsai.Lsl.TimestampedChunk.Create<T>(T[,], System.Double[])
+  fullName.vb: Bonsai.Lsl.TimestampedChunk.Create(Of T)(T(,), System.Double())
+  nameWithType: TimestampedChunk.Create<T>(T[,], Double[])
+  nameWithType.vb: TimestampedChunk.Create(Of T)(T(,), Double())
+- uid: Bonsai.Lsl.TimestampedChunk`1
+  name: TimestampedChunk<T>
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html
+  commentId: T:Bonsai.Lsl.TimestampedChunk`1
+  name.vb: TimestampedChunk(Of T)
+  fullName: Bonsai.Lsl.TimestampedChunk<T>
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T)
+  nameWithType: TimestampedChunk<T>
+  nameWithType.vb: TimestampedChunk(Of T)
+- uid: Bonsai.Lsl.TimestampedChunk`1.#ctor(`0[0:,0:],System.Double[])
+  name: TimestampedChunk(T[,], Double[])
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1__ctor__0_0__0___System_Double___
+  commentId: M:Bonsai.Lsl.TimestampedChunk`1.#ctor(`0[0:,0:],System.Double[])
+  name.vb: TimestampedChunk(T(,), Double())
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.TimestampedChunk(T[,], System.Double[])
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).TimestampedChunk(T(,), System.Double())
+  nameWithType: TimestampedChunk<T>.TimestampedChunk(T[,], Double[])
+  nameWithType.vb: TimestampedChunk(Of T).TimestampedChunk(T(,), Double())
+- uid: Bonsai.Lsl.TimestampedChunk`1.#ctor*
+  name: TimestampedChunk
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1__ctor_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunk`1.#ctor
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.TimestampedChunk
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).TimestampedChunk
+  nameWithType: TimestampedChunk<T>.TimestampedChunk
+  nameWithType.vb: TimestampedChunk(Of T).TimestampedChunk
+- uid: Bonsai.Lsl.TimestampedChunk`1.Data
+  name: Data
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1_Data
+  commentId: P:Bonsai.Lsl.TimestampedChunk`1.Data
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.Data
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).Data
+  nameWithType: TimestampedChunk<T>.Data
+  nameWithType.vb: TimestampedChunk(Of T).Data
+- uid: Bonsai.Lsl.TimestampedChunk`1.Data*
+  name: Data
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1_Data_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunk`1.Data
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.Data
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).Data
+  nameWithType: TimestampedChunk<T>.Data
+  nameWithType.vb: TimestampedChunk(Of T).Data
+- uid: Bonsai.Lsl.TimestampedChunk`1.Deconstruct(`0[0:,0:]@,System.Double[]@)
+  name: Deconstruct(out T[,], out Double[])
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1_Deconstruct__0_0__0____System_Double____
+  commentId: M:Bonsai.Lsl.TimestampedChunk`1.Deconstruct(`0[0:,0:]@,System.Double[]@)
+  name.vb: Deconstruct(ByRef T(,), ByRef Double())
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.Deconstruct(out T[,], out System.Double[])
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).Deconstruct(ByRef T(,), ByRef System.Double())
+  nameWithType: TimestampedChunk<T>.Deconstruct(out T[,], out Double[])
+  nameWithType.vb: TimestampedChunk(Of T).Deconstruct(ByRef T(,), ByRef Double())
+- uid: Bonsai.Lsl.TimestampedChunk`1.Deconstruct*
+  name: Deconstruct
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1_Deconstruct_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunk`1.Deconstruct
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.Deconstruct
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).Deconstruct
+  nameWithType: TimestampedChunk<T>.Deconstruct
+  nameWithType.vb: TimestampedChunk(Of T).Deconstruct
+- uid: Bonsai.Lsl.TimestampedChunk`1.Equals(Bonsai.Lsl.TimestampedChunk{`0})
+  name: Equals(TimestampedChunk<T>)
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1_Equals_Bonsai_Lsl_TimestampedChunk__0__
+  commentId: M:Bonsai.Lsl.TimestampedChunk`1.Equals(Bonsai.Lsl.TimestampedChunk{`0})
+  name.vb: Equals(TimestampedChunk(Of T))
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.Equals(Bonsai.Lsl.TimestampedChunk<T>)
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).Equals(Bonsai.Lsl.TimestampedChunk(Of T))
+  nameWithType: TimestampedChunk<T>.Equals(TimestampedChunk<T>)
+  nameWithType.vb: TimestampedChunk(Of T).Equals(TimestampedChunk(Of T))
+- uid: Bonsai.Lsl.TimestampedChunk`1.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1_Equals_System_Object_
+  commentId: M:Bonsai.Lsl.TimestampedChunk`1.Equals(System.Object)
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.Equals(System.Object)
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).Equals(System.Object)
+  nameWithType: TimestampedChunk<T>.Equals(Object)
+  nameWithType.vb: TimestampedChunk(Of T).Equals(Object)
+- uid: Bonsai.Lsl.TimestampedChunk`1.Equals*
+  name: Equals
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1_Equals_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunk`1.Equals
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.Equals
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).Equals
+  nameWithType: TimestampedChunk<T>.Equals
+  nameWithType.vb: TimestampedChunk(Of T).Equals
+- uid: Bonsai.Lsl.TimestampedChunk`1.GetHashCode
+  name: GetHashCode()
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1_GetHashCode
+  commentId: M:Bonsai.Lsl.TimestampedChunk`1.GetHashCode
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.GetHashCode()
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).GetHashCode()
+  nameWithType: TimestampedChunk<T>.GetHashCode()
+  nameWithType.vb: TimestampedChunk(Of T).GetHashCode()
+- uid: Bonsai.Lsl.TimestampedChunk`1.GetHashCode*
+  name: GetHashCode
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1_GetHashCode_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunk`1.GetHashCode
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.GetHashCode
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).GetHashCode
+  nameWithType: TimestampedChunk<T>.GetHashCode
+  nameWithType.vb: TimestampedChunk(Of T).GetHashCode
+- uid: Bonsai.Lsl.TimestampedChunk`1.op_Equality(Bonsai.Lsl.TimestampedChunk{`0},Bonsai.Lsl.TimestampedChunk{`0})
+  name: Equality(TimestampedChunk<T>, TimestampedChunk<T>)
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1_op_Equality_Bonsai_Lsl_TimestampedChunk__0__Bonsai_Lsl_TimestampedChunk__0__
+  commentId: M:Bonsai.Lsl.TimestampedChunk`1.op_Equality(Bonsai.Lsl.TimestampedChunk{`0},Bonsai.Lsl.TimestampedChunk{`0})
+  name.vb: Equality(TimestampedChunk(Of T), TimestampedChunk(Of T))
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.Equality(Bonsai.Lsl.TimestampedChunk<T>, Bonsai.Lsl.TimestampedChunk<T>)
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).Equality(Bonsai.Lsl.TimestampedChunk(Of T), Bonsai.Lsl.TimestampedChunk(Of T))
+  nameWithType: TimestampedChunk<T>.Equality(TimestampedChunk<T>, TimestampedChunk<T>)
+  nameWithType.vb: TimestampedChunk(Of T).Equality(TimestampedChunk(Of T), TimestampedChunk(Of T))
+- uid: Bonsai.Lsl.TimestampedChunk`1.op_Equality*
+  name: Equality
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1_op_Equality_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunk`1.op_Equality
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.Equality
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).Equality
+  nameWithType: TimestampedChunk<T>.Equality
+  nameWithType.vb: TimestampedChunk(Of T).Equality
+- uid: Bonsai.Lsl.TimestampedChunk`1.op_Inequality(Bonsai.Lsl.TimestampedChunk{`0},Bonsai.Lsl.TimestampedChunk{`0})
+  name: Inequality(TimestampedChunk<T>, TimestampedChunk<T>)
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1_op_Inequality_Bonsai_Lsl_TimestampedChunk__0__Bonsai_Lsl_TimestampedChunk__0__
+  commentId: M:Bonsai.Lsl.TimestampedChunk`1.op_Inequality(Bonsai.Lsl.TimestampedChunk{`0},Bonsai.Lsl.TimestampedChunk{`0})
+  name.vb: Inequality(TimestampedChunk(Of T), TimestampedChunk(Of T))
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.Inequality(Bonsai.Lsl.TimestampedChunk<T>, Bonsai.Lsl.TimestampedChunk<T>)
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).Inequality(Bonsai.Lsl.TimestampedChunk(Of T), Bonsai.Lsl.TimestampedChunk(Of T))
+  nameWithType: TimestampedChunk<T>.Inequality(TimestampedChunk<T>, TimestampedChunk<T>)
+  nameWithType.vb: TimestampedChunk(Of T).Inequality(TimestampedChunk(Of T), TimestampedChunk(Of T))
+- uid: Bonsai.Lsl.TimestampedChunk`1.op_Inequality*
+  name: Inequality
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1_op_Inequality_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunk`1.op_Inequality
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.Inequality
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).Inequality
+  nameWithType: TimestampedChunk<T>.Inequality
+  nameWithType.vb: TimestampedChunk(Of T).Inequality
+- uid: Bonsai.Lsl.TimestampedChunk`1.Timestamps
+  name: Timestamps
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1_Timestamps
+  commentId: P:Bonsai.Lsl.TimestampedChunk`1.Timestamps
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.Timestamps
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).Timestamps
+  nameWithType: TimestampedChunk<T>.Timestamps
+  nameWithType.vb: TimestampedChunk(Of T).Timestamps
+- uid: Bonsai.Lsl.TimestampedChunk`1.Timestamps*
+  name: Timestamps
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1_Timestamps_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunk`1.Timestamps
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.Timestamps
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).Timestamps
+  nameWithType: TimestampedChunk<T>.Timestamps
+  nameWithType.vb: TimestampedChunk(Of T).Timestamps
+- uid: Bonsai.Lsl.TimestampedChunk`1.ToString
+  name: ToString()
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1_ToString
+  commentId: M:Bonsai.Lsl.TimestampedChunk`1.ToString
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.ToString()
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).ToString()
+  nameWithType: TimestampedChunk<T>.ToString()
+  nameWithType.vb: TimestampedChunk(Of T).ToString()
+- uid: Bonsai.Lsl.TimestampedChunk`1.ToString*
+  name: ToString
+  href: api/Bonsai.Lsl.TimestampedChunk-1.html#Bonsai_Lsl_TimestampedChunk_1_ToString_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunk`1.ToString
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunk<T>.ToString
+  fullName.vb: Bonsai.Lsl.TimestampedChunk(Of T).ToString
+  nameWithType: TimestampedChunk<T>.ToString
+  nameWithType.vb: TimestampedChunk(Of T).ToString
+- uid: Bonsai.Lsl.TimestampedChunkBuffer
+  name: TimestampedChunkBuffer
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html
+  commentId: T:Bonsai.Lsl.TimestampedChunkBuffer
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer
+  nameWithType: TimestampedChunkBuffer
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.#ctor(Mat,Mat)
+  name: TimestampedChunkBuffer(Mat, Mat)
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer__ctor_Mat_Mat_
+  commentId: M:Bonsai.Lsl.TimestampedChunkBuffer.#ctor(Mat,Mat)
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.TimestampedChunkBuffer(Mat, Mat)
+  nameWithType: TimestampedChunkBuffer.TimestampedChunkBuffer(Mat, Mat)
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.#ctor*
+  name: TimestampedChunkBuffer
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer__ctor_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunkBuffer.#ctor
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.TimestampedChunkBuffer
+  nameWithType: TimestampedChunkBuffer.TimestampedChunkBuffer
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.Data
+  name: Data
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer_Data
+  commentId: P:Bonsai.Lsl.TimestampedChunkBuffer.Data
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.Data
+  nameWithType: TimestampedChunkBuffer.Data
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.Data*
+  name: Data
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer_Data_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunkBuffer.Data
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.Data
+  nameWithType: TimestampedChunkBuffer.Data
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.Deconstruct(Mat@,Mat@)
+  name: Deconstruct(out Mat, out Mat)
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer_Deconstruct_Mat__Mat__
+  commentId: M:Bonsai.Lsl.TimestampedChunkBuffer.Deconstruct(Mat@,Mat@)
+  name.vb: Deconstruct(ByRef Mat, ByRef Mat)
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.Deconstruct(out Mat, out Mat)
+  fullName.vb: Bonsai.Lsl.TimestampedChunkBuffer.Deconstruct(ByRef Mat, ByRef Mat)
+  nameWithType: TimestampedChunkBuffer.Deconstruct(out Mat, out Mat)
+  nameWithType.vb: TimestampedChunkBuffer.Deconstruct(ByRef Mat, ByRef Mat)
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.Deconstruct*
+  name: Deconstruct
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer_Deconstruct_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunkBuffer.Deconstruct
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.Deconstruct
+  nameWithType: TimestampedChunkBuffer.Deconstruct
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.Equals(Bonsai.Lsl.TimestampedChunkBuffer)
+  name: Equals(TimestampedChunkBuffer)
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer_Equals_Bonsai_Lsl_TimestampedChunkBuffer_
+  commentId: M:Bonsai.Lsl.TimestampedChunkBuffer.Equals(Bonsai.Lsl.TimestampedChunkBuffer)
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.Equals(Bonsai.Lsl.TimestampedChunkBuffer)
+  nameWithType: TimestampedChunkBuffer.Equals(TimestampedChunkBuffer)
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer_Equals_System_Object_
+  commentId: M:Bonsai.Lsl.TimestampedChunkBuffer.Equals(System.Object)
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.Equals(System.Object)
+  nameWithType: TimestampedChunkBuffer.Equals(Object)
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.Equals*
+  name: Equals
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer_Equals_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunkBuffer.Equals
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.Equals
+  nameWithType: TimestampedChunkBuffer.Equals
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.GetHashCode
+  name: GetHashCode()
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer_GetHashCode
+  commentId: M:Bonsai.Lsl.TimestampedChunkBuffer.GetHashCode
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.GetHashCode()
+  nameWithType: TimestampedChunkBuffer.GetHashCode()
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.GetHashCode*
+  name: GetHashCode
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer_GetHashCode_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunkBuffer.GetHashCode
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.GetHashCode
+  nameWithType: TimestampedChunkBuffer.GetHashCode
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.op_Equality(Bonsai.Lsl.TimestampedChunkBuffer,Bonsai.Lsl.TimestampedChunkBuffer)
+  name: Equality(TimestampedChunkBuffer, TimestampedChunkBuffer)
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer_op_Equality_Bonsai_Lsl_TimestampedChunkBuffer_Bonsai_Lsl_TimestampedChunkBuffer_
+  commentId: M:Bonsai.Lsl.TimestampedChunkBuffer.op_Equality(Bonsai.Lsl.TimestampedChunkBuffer,Bonsai.Lsl.TimestampedChunkBuffer)
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.Equality(Bonsai.Lsl.TimestampedChunkBuffer, Bonsai.Lsl.TimestampedChunkBuffer)
+  nameWithType: TimestampedChunkBuffer.Equality(TimestampedChunkBuffer, TimestampedChunkBuffer)
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.op_Equality*
+  name: Equality
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer_op_Equality_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunkBuffer.op_Equality
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.Equality
+  nameWithType: TimestampedChunkBuffer.Equality
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.op_Inequality(Bonsai.Lsl.TimestampedChunkBuffer,Bonsai.Lsl.TimestampedChunkBuffer)
+  name: Inequality(TimestampedChunkBuffer, TimestampedChunkBuffer)
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer_op_Inequality_Bonsai_Lsl_TimestampedChunkBuffer_Bonsai_Lsl_TimestampedChunkBuffer_
+  commentId: M:Bonsai.Lsl.TimestampedChunkBuffer.op_Inequality(Bonsai.Lsl.TimestampedChunkBuffer,Bonsai.Lsl.TimestampedChunkBuffer)
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.Inequality(Bonsai.Lsl.TimestampedChunkBuffer, Bonsai.Lsl.TimestampedChunkBuffer)
+  nameWithType: TimestampedChunkBuffer.Inequality(TimestampedChunkBuffer, TimestampedChunkBuffer)
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.op_Inequality*
+  name: Inequality
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer_op_Inequality_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunkBuffer.op_Inequality
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.Inequality
+  nameWithType: TimestampedChunkBuffer.Inequality
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.Timestamps
+  name: Timestamps
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer_Timestamps
+  commentId: P:Bonsai.Lsl.TimestampedChunkBuffer.Timestamps
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.Timestamps
+  nameWithType: TimestampedChunkBuffer.Timestamps
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.Timestamps*
+  name: Timestamps
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer_Timestamps_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunkBuffer.Timestamps
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.Timestamps
+  nameWithType: TimestampedChunkBuffer.Timestamps
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.ToString
+  name: ToString()
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer_ToString
+  commentId: M:Bonsai.Lsl.TimestampedChunkBuffer.ToString
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.ToString()
+  nameWithType: TimestampedChunkBuffer.ToString()
+- uid: Bonsai.Lsl.TimestampedChunkBuffer.ToString*
+  name: ToString
+  href: api/Bonsai.Lsl.TimestampedChunkBuffer.html#Bonsai_Lsl_TimestampedChunkBuffer_ToString_
+  commentId: Overload:Bonsai.Lsl.TimestampedChunkBuffer.ToString
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedChunkBuffer.ToString
+  nameWithType: TimestampedChunkBuffer.ToString
+- uid: Bonsai.Lsl.TimestampedSample
+  name: TimestampedSample
+  href: api/Bonsai.Lsl.TimestampedSample.html
+  commentId: T:Bonsai.Lsl.TimestampedSample
+  fullName: Bonsai.Lsl.TimestampedSample
+  nameWithType: TimestampedSample
+- uid: Bonsai.Lsl.TimestampedSample.Create*
+  name: Create
+  href: api/Bonsai.Lsl.TimestampedSample.html#Bonsai_Lsl_TimestampedSample_Create_
+  commentId: Overload:Bonsai.Lsl.TimestampedSample.Create
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedSample.Create
+  nameWithType: TimestampedSample.Create
+- uid: Bonsai.Lsl.TimestampedSample.Create``1(``0[],System.Double)
+  name: Create<T>(T[], Double)
+  href: api/Bonsai.Lsl.TimestampedSample.html#Bonsai_Lsl_TimestampedSample_Create__1___0___System_Double_
+  commentId: M:Bonsai.Lsl.TimestampedSample.Create``1(``0[],System.Double)
+  name.vb: Create(Of T)(T(), Double)
+  fullName: Bonsai.Lsl.TimestampedSample.Create<T>(T[], System.Double)
+  fullName.vb: Bonsai.Lsl.TimestampedSample.Create(Of T)(T(), System.Double)
+  nameWithType: TimestampedSample.Create<T>(T[], Double)
+  nameWithType.vb: TimestampedSample.Create(Of T)(T(), Double)
+- uid: Bonsai.Lsl.TimestampedSample`1
+  name: TimestampedSample<T>
+  href: api/Bonsai.Lsl.TimestampedSample-1.html
+  commentId: T:Bonsai.Lsl.TimestampedSample`1
+  name.vb: TimestampedSample(Of T)
+  fullName: Bonsai.Lsl.TimestampedSample<T>
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T)
+  nameWithType: TimestampedSample<T>
+  nameWithType.vb: TimestampedSample(Of T)
+- uid: Bonsai.Lsl.TimestampedSample`1.#ctor(`0[],System.Double)
+  name: TimestampedSample(T[], Double)
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1__ctor__0___System_Double_
+  commentId: M:Bonsai.Lsl.TimestampedSample`1.#ctor(`0[],System.Double)
+  name.vb: TimestampedSample(T(), Double)
+  fullName: Bonsai.Lsl.TimestampedSample<T>.TimestampedSample(T[], System.Double)
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).TimestampedSample(T(), System.Double)
+  nameWithType: TimestampedSample<T>.TimestampedSample(T[], Double)
+  nameWithType.vb: TimestampedSample(Of T).TimestampedSample(T(), Double)
+- uid: Bonsai.Lsl.TimestampedSample`1.#ctor*
+  name: TimestampedSample
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1__ctor_
+  commentId: Overload:Bonsai.Lsl.TimestampedSample`1.#ctor
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedSample<T>.TimestampedSample
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).TimestampedSample
+  nameWithType: TimestampedSample<T>.TimestampedSample
+  nameWithType.vb: TimestampedSample(Of T).TimestampedSample
+- uid: Bonsai.Lsl.TimestampedSample`1.Data
+  name: Data
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1_Data
+  commentId: P:Bonsai.Lsl.TimestampedSample`1.Data
+  fullName: Bonsai.Lsl.TimestampedSample<T>.Data
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).Data
+  nameWithType: TimestampedSample<T>.Data
+  nameWithType.vb: TimestampedSample(Of T).Data
+- uid: Bonsai.Lsl.TimestampedSample`1.Data*
+  name: Data
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1_Data_
+  commentId: Overload:Bonsai.Lsl.TimestampedSample`1.Data
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedSample<T>.Data
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).Data
+  nameWithType: TimestampedSample<T>.Data
+  nameWithType.vb: TimestampedSample(Of T).Data
+- uid: Bonsai.Lsl.TimestampedSample`1.Deconstruct(`0[]@,System.Double@)
+  name: Deconstruct(out T[], out Double)
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1_Deconstruct__0____System_Double__
+  commentId: M:Bonsai.Lsl.TimestampedSample`1.Deconstruct(`0[]@,System.Double@)
+  name.vb: Deconstruct(ByRef T(), ByRef Double)
+  fullName: Bonsai.Lsl.TimestampedSample<T>.Deconstruct(out T[], out System.Double)
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).Deconstruct(ByRef T(), ByRef System.Double)
+  nameWithType: TimestampedSample<T>.Deconstruct(out T[], out Double)
+  nameWithType.vb: TimestampedSample(Of T).Deconstruct(ByRef T(), ByRef Double)
+- uid: Bonsai.Lsl.TimestampedSample`1.Deconstruct*
+  name: Deconstruct
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1_Deconstruct_
+  commentId: Overload:Bonsai.Lsl.TimestampedSample`1.Deconstruct
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedSample<T>.Deconstruct
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).Deconstruct
+  nameWithType: TimestampedSample<T>.Deconstruct
+  nameWithType.vb: TimestampedSample(Of T).Deconstruct
+- uid: Bonsai.Lsl.TimestampedSample`1.Equals(Bonsai.Lsl.TimestampedSample{`0})
+  name: Equals(TimestampedSample<T>)
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1_Equals_Bonsai_Lsl_TimestampedSample__0__
+  commentId: M:Bonsai.Lsl.TimestampedSample`1.Equals(Bonsai.Lsl.TimestampedSample{`0})
+  name.vb: Equals(TimestampedSample(Of T))
+  fullName: Bonsai.Lsl.TimestampedSample<T>.Equals(Bonsai.Lsl.TimestampedSample<T>)
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).Equals(Bonsai.Lsl.TimestampedSample(Of T))
+  nameWithType: TimestampedSample<T>.Equals(TimestampedSample<T>)
+  nameWithType.vb: TimestampedSample(Of T).Equals(TimestampedSample(Of T))
+- uid: Bonsai.Lsl.TimestampedSample`1.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1_Equals_System_Object_
+  commentId: M:Bonsai.Lsl.TimestampedSample`1.Equals(System.Object)
+  fullName: Bonsai.Lsl.TimestampedSample<T>.Equals(System.Object)
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).Equals(System.Object)
+  nameWithType: TimestampedSample<T>.Equals(Object)
+  nameWithType.vb: TimestampedSample(Of T).Equals(Object)
+- uid: Bonsai.Lsl.TimestampedSample`1.Equals*
+  name: Equals
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1_Equals_
+  commentId: Overload:Bonsai.Lsl.TimestampedSample`1.Equals
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedSample<T>.Equals
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).Equals
+  nameWithType: TimestampedSample<T>.Equals
+  nameWithType.vb: TimestampedSample(Of T).Equals
+- uid: Bonsai.Lsl.TimestampedSample`1.GetHashCode
+  name: GetHashCode()
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1_GetHashCode
+  commentId: M:Bonsai.Lsl.TimestampedSample`1.GetHashCode
+  fullName: Bonsai.Lsl.TimestampedSample<T>.GetHashCode()
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).GetHashCode()
+  nameWithType: TimestampedSample<T>.GetHashCode()
+  nameWithType.vb: TimestampedSample(Of T).GetHashCode()
+- uid: Bonsai.Lsl.TimestampedSample`1.GetHashCode*
+  name: GetHashCode
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1_GetHashCode_
+  commentId: Overload:Bonsai.Lsl.TimestampedSample`1.GetHashCode
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedSample<T>.GetHashCode
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).GetHashCode
+  nameWithType: TimestampedSample<T>.GetHashCode
+  nameWithType.vb: TimestampedSample(Of T).GetHashCode
+- uid: Bonsai.Lsl.TimestampedSample`1.op_Equality(Bonsai.Lsl.TimestampedSample{`0},Bonsai.Lsl.TimestampedSample{`0})
+  name: Equality(TimestampedSample<T>, TimestampedSample<T>)
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1_op_Equality_Bonsai_Lsl_TimestampedSample__0__Bonsai_Lsl_TimestampedSample__0__
+  commentId: M:Bonsai.Lsl.TimestampedSample`1.op_Equality(Bonsai.Lsl.TimestampedSample{`0},Bonsai.Lsl.TimestampedSample{`0})
+  name.vb: Equality(TimestampedSample(Of T), TimestampedSample(Of T))
+  fullName: Bonsai.Lsl.TimestampedSample<T>.Equality(Bonsai.Lsl.TimestampedSample<T>, Bonsai.Lsl.TimestampedSample<T>)
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).Equality(Bonsai.Lsl.TimestampedSample(Of T), Bonsai.Lsl.TimestampedSample(Of T))
+  nameWithType: TimestampedSample<T>.Equality(TimestampedSample<T>, TimestampedSample<T>)
+  nameWithType.vb: TimestampedSample(Of T).Equality(TimestampedSample(Of T), TimestampedSample(Of T))
+- uid: Bonsai.Lsl.TimestampedSample`1.op_Equality*
+  name: Equality
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1_op_Equality_
+  commentId: Overload:Bonsai.Lsl.TimestampedSample`1.op_Equality
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedSample<T>.Equality
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).Equality
+  nameWithType: TimestampedSample<T>.Equality
+  nameWithType.vb: TimestampedSample(Of T).Equality
+- uid: Bonsai.Lsl.TimestampedSample`1.op_Inequality(Bonsai.Lsl.TimestampedSample{`0},Bonsai.Lsl.TimestampedSample{`0})
+  name: Inequality(TimestampedSample<T>, TimestampedSample<T>)
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1_op_Inequality_Bonsai_Lsl_TimestampedSample__0__Bonsai_Lsl_TimestampedSample__0__
+  commentId: M:Bonsai.Lsl.TimestampedSample`1.op_Inequality(Bonsai.Lsl.TimestampedSample{`0},Bonsai.Lsl.TimestampedSample{`0})
+  name.vb: Inequality(TimestampedSample(Of T), TimestampedSample(Of T))
+  fullName: Bonsai.Lsl.TimestampedSample<T>.Inequality(Bonsai.Lsl.TimestampedSample<T>, Bonsai.Lsl.TimestampedSample<T>)
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).Inequality(Bonsai.Lsl.TimestampedSample(Of T), Bonsai.Lsl.TimestampedSample(Of T))
+  nameWithType: TimestampedSample<T>.Inequality(TimestampedSample<T>, TimestampedSample<T>)
+  nameWithType.vb: TimestampedSample(Of T).Inequality(TimestampedSample(Of T), TimestampedSample(Of T))
+- uid: Bonsai.Lsl.TimestampedSample`1.op_Inequality*
+  name: Inequality
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1_op_Inequality_
+  commentId: Overload:Bonsai.Lsl.TimestampedSample`1.op_Inequality
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedSample<T>.Inequality
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).Inequality
+  nameWithType: TimestampedSample<T>.Inequality
+  nameWithType.vb: TimestampedSample(Of T).Inequality
+- uid: Bonsai.Lsl.TimestampedSample`1.Timestamp
+  name: Timestamp
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1_Timestamp
+  commentId: P:Bonsai.Lsl.TimestampedSample`1.Timestamp
+  fullName: Bonsai.Lsl.TimestampedSample<T>.Timestamp
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).Timestamp
+  nameWithType: TimestampedSample<T>.Timestamp
+  nameWithType.vb: TimestampedSample(Of T).Timestamp
+- uid: Bonsai.Lsl.TimestampedSample`1.Timestamp*
+  name: Timestamp
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1_Timestamp_
+  commentId: Overload:Bonsai.Lsl.TimestampedSample`1.Timestamp
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedSample<T>.Timestamp
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).Timestamp
+  nameWithType: TimestampedSample<T>.Timestamp
+  nameWithType.vb: TimestampedSample(Of T).Timestamp
+- uid: Bonsai.Lsl.TimestampedSample`1.ToString
+  name: ToString()
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1_ToString
+  commentId: M:Bonsai.Lsl.TimestampedSample`1.ToString
+  fullName: Bonsai.Lsl.TimestampedSample<T>.ToString()
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).ToString()
+  nameWithType: TimestampedSample<T>.ToString()
+  nameWithType.vb: TimestampedSample(Of T).ToString()
+- uid: Bonsai.Lsl.TimestampedSample`1.ToString*
+  name: ToString
+  href: api/Bonsai.Lsl.TimestampedSample-1.html#Bonsai_Lsl_TimestampedSample_1_ToString_
+  commentId: Overload:Bonsai.Lsl.TimestampedSample`1.ToString
+  isSpec: "True"
+  fullName: Bonsai.Lsl.TimestampedSample<T>.ToString
+  fullName.vb: Bonsai.Lsl.TimestampedSample(Of T).ToString
+  nameWithType: TimestampedSample<T>.ToString
+  nameWithType.vb: TimestampedSample(Of T).ToString
